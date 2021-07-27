@@ -1,6 +1,6 @@
 # github_guide
 
-A new Flutter project.
+The Last Supper by Leonardo Da Vinci
 
 ## Getting Started
 
